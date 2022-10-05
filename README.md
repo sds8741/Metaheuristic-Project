@@ -11,6 +11,7 @@
 
 1.懸臂梁:一端固定一端為自由端的梁
 <img src="./image/懸臂梁.png" title="懸臂梁" width="25%"/>
+
 2.兩端點固定梁:兩端皆固定
 <img src="./image/固定梁.png" title="固定梁" width="25%"/>
 
