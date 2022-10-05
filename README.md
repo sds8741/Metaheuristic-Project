@@ -13,7 +13,7 @@
 
 2.兩端點固定梁:兩端皆固定
 
-![懸臂梁](./image/懸臂梁.png =20x20 "懸臂梁")
 <img src="./image/懸臂梁.png" title="懸臂梁" width="25%"/>
+<img src="./image/固定梁.png" title="固定梁" width="25%"/>
 
 + 下圖為2D懸臂梁示意圖，求在端點位置位移最小化
